@@ -12,7 +12,7 @@ Entrez ici les instructions pour bien débuter avec votre projet...
 ### Pré-requis
 
 SKIBIDI JONAS 
-'"jt"p'iojtg"
+SKIBIDI ALEXIS
 Ce qu'il est requis pour commencer avec votre projet...
 
 - Programme 1
